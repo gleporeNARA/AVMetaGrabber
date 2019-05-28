@@ -11,3 +11,7 @@ The program will identify and extract information from the formats listed at:
 https://mediaarea.net/en/MediaInfo/Support/Formats
 
 The table also lists the metadata elements to be extracted to the JTable.
+
+Possible test datasets can be found at:
+
+https://towardsdatascience.com/a-data-lakes-worth-of-audio-datasets-b45b88cd4ad
